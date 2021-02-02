@@ -1,7 +1,7 @@
 {
-  "name": "freerestapi",
+  "name": "belajar",
   "version": "1.2.0",
-  "description": "Free Rest API for Everyone",
+  "description": "Free  API",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -56,5 +56,5 @@
   "bugs": {
     "url": "https://github.com/AthallahDzaki/freerestapi2/issues"
   },
-  "homepage": "https://freerestapi.herokuapp.com"
+  "homepage": "https://anangfatkhurosidin.herokuapp.com"
 }
